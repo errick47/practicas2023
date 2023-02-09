@@ -6,3 +6,9 @@ autor erick ivan dominguez olivier
 instituto tecnologico superior 
 
 8vo ingeneria en sistemas computacionales 2023
+
+erick
+ale
+diego 
+cesar
+norma
