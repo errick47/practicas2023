@@ -5,12 +5,6 @@ autor erick ivan dominguez olivier
 
 instituto tecnologico superior 
 
-8vo ingeneria en sistemas computacionales 2023
+nos encontramos en la rama linea1 
 
-erick
-ale
-diego 
-cesar
-norma
-
-Estamos en la rama llamada "linea1"
+este segmento fue creado por el milaneso
